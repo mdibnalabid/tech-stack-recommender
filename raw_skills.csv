@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Statistics Data_Analysis NumPy Pandas Visualization TensorFlow Jupyter
+ML Engineer,Python TensorFlow PyTorch Machine_Learning Deep_Learning MLOps Docker Kubernetes GPU_Computing Model_Deployment
+Backend Developer,Python Java SQL REST_APIs Django Flask Node.js PostgreSQL Redis Microservices
+Frontend Developer,JavaScript React Vue CSS HTML UI_UX TypeScript Webpack Figma Accessibility
+Full Stack Developer,JavaScript Python React Node.js SQL REST_APIs HTML CSS Docker Git
+DevOps Engineer,AWS Docker Kubernetes CI_CD Linux Automation Shell_Scripting Terraform Monitoring Git
+Cloud Architect,AWS Azure GCP Cloud Infrastructure Networking Security Automation Terraform Cost_Optimization
+Data Engineer,Python SQL ETL Apache_Spark Hadoop Data_Pipelines Airflow Kafka PostgreSQL BigQuery
+Cybersecurity Analyst,Networking Security Penetration_Testing Linux Cryptography Firewalls Incident_Response SIEM Compliance
+Mobile Developer,Flutter Dart Android iOS React_Native Swift Kotlin Firebase REST_APIs UI_UX
+Site Reliability Engineer,Linux Kubernetes Docker Monitoring Automation Python Shell_Scripting CI_CD Incident_Response Observability
+Database Administrator,SQL PostgreSQL MySQL MongoDB Oracle Database_Design Query_Optimization Backup_Recovery Performance_Tuning
+AI Research Scientist,Python TensorFlow PyTorch Machine_Learning Deep_Learning Research Mathematics NLP Computer_Vision Statistics
+Blockchain Developer,Solidity Ethereum Smart_Contracts Web3 Cryptography Python JavaScript Distributed_Systems Security
+Game Developer,Unity C# Unreal_Engine C++ Game_Design Physics_Engine Graphics_Programming 3D_Modeling AI_Behavior Optimization
+Systems Programmer,C C++ Linux Embedded_Systems Memory_Management Kernel_Development Assembly Performance_Optimization Networking
+QA Engineer,Testing Automation Selenium Python Java CI_CD Bug_Tracking Performance_Testing API_Testing Documentation
+Product Manager,Agile Product_Strategy User_Research Data_Analysis Communication Roadmapping SQL Stakeholder_Management Scrum
+Data Analyst,SQL Python Excel Data_Visualization Tableau Statistics Reporting Business_Intelligence PowerBI Communication
+Network Engineer,Networking Cisco Linux Routing_Protocols Firewalls VPN Security TCP_IP Monitoring Troubleshooting
