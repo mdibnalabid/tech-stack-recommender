@@ -1,7 +1,11 @@
 # 🧠 Tech Stack Recommender
 **DecodeLabs AI Project 3 — Content-Based Filtering Engine**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tech-stack-recommender-fbuup8nvoqey99jcf3fjgf.streamlit.app/)
+
 A recommendation system that maps a user's raw skills to the most aligned career paths and tech stacks using **TF-IDF vectorization** and **Cosine Similarity**.
+
+**🔗 Live App:** [tech-stack-recommender.streamlit.app](https://tech-stack-recommender-fbuup8nvoqey99jcf3fjgf.streamlit.app/)
 
 ---
 
